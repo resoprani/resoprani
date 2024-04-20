@@ -11,7 +11,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,html,css,php)](https://skillicons.dev)
 
-<a href="https://www.linkedin.com/in/renan-soprani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+<a href="https://www.linkedin.com/in/renan-soprani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

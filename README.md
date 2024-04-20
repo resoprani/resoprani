@@ -1,9 +1,12 @@
-### Hi there 👋
+
+  ### Hi there 👋 Wellcome to Renan Soprani's github
+
+![snake gif](https://github.com/resoprani/resoprani/blob/output/github-contribution-grid-snake.svg) 
 
 <div>
   <a href="https://github.com/resoprani">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=resoprani&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resoprani&layout=compact&langs_count=16&theme=drcula"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=resoprani&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resoprani&layout=compact&langs_count=16&theme=drcula"/>
 </div>
 
 [![My Skills](https://skillicons.dev/icons?i=c,html,css,php)](https://skillicons.dev)
@@ -18,5 +21,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-![snake gif](https://github.com/resoprani/resoprani/blob/output/github-contribution-grid-snake.svg)

@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/resoprani">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=resoprani&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resoprani&layout=compact&langs_count=16&theme=drcula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=resoprani&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resoprani&layout=compact&langs_count=16&theme=drcula"/>
 </div>
 
 [![My Skills](https://skillicons.dev/icons?i=c,html,css,php)](https://skillicons.dev)

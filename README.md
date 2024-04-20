@@ -1,4 +1,3 @@
-
   ### Hi there 👋 Wellcome to Renan Soprani's github
 
 ![snake gif](https://github.com/resoprani/resoprani/blob/output/github-contribution-grid-snake.svg) 
@@ -11,7 +10,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,html,css,php)](https://skillicons.dev)
 
-<a href="https://www.linkedin.com/in/renan-soprani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-soprani){:target="_blank"}
+
+<a href="https://www.linkedin.com/in/renan-soprani/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
